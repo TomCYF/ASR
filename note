@@ -1,0 +1,23 @@
+state of the art in speech recognition
+
+Appen Sydeney Asutralia
+
+conversation telephone speech.
+	-task 1975 hours training data set
+	-24 hours test set
+
+Acoustic models
+	-LSTM RNN
+	-Speaker adversarial multi-task learning nreworks(SA-MTL)
+	-ResNet 
+
+LSTM
+	-LSTM units: gating function(input gate, output gate, remember gate)
+	-bidirectional RNN(one layer learning about history, another layer learning about future)
+	-deep bidirectional LSTM
+	-40-dim FMLLR + 100-dim i-vector
+	-SA-MTL
+	-
+
+Deep CNN acoustic models
+	-
